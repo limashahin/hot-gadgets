@@ -1,0 +1,51 @@
+
+.navbar-brand img{
+    width: 120px;
+}
+.collapse ul li {
+    padding: 0 15px;
+}
+.mack-bg{
+    background-image:url('images/bg-1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 4em;
+}
+.col-md-6{
+    padding-right: 40px;
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.see-all{
+    margin-top: 60px;
+    margin-bottom: 40px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
+.laptop{
+    padding-bottom: 50px;
+}
+.beauty{
+    padding: 50px;
+}
+.bag{
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    box-shadow: 10px 10px 15px lightgrey;
+}
+.bag img{
+    width: 100px;
+    margin:50px 0;
+}
+
